@@ -29,6 +29,7 @@
 	<li><strong>build</strong>: build project to <strong>dist</strong> folder (cleanup, image optimize, removing unnecessary files);</li>
 	<li><strong>deploy</strong>: project deployment on the server from <strong>dist</strong> folder via FTP;</li>
 	<li><strong>clearcache</strong>: clear all gulp cache.</li>
+	<li><strong>lint</strong>: check app/**/*.js files by eslint</li>
 </ul>
 
 <h2>Rules for working with the starting HTML template</h2>
